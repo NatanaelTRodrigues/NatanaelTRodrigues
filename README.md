@@ -6,7 +6,7 @@
 
 <h3>👋 Sobre Mim</h3>
 <p align="center">
-Olá! Sou Natanael Rodrigues, um <b>Desenvolvedor Full Stack</b> apaixonado por criar soluções digitais impactantes. Atualmente, estou focado no desenvolvimento mobile com o projeto <b>ControlZ</b>, buscando sempre unir a inovação tecnológica para resolver problemas reais de forma eficiente.
+Olá! Sou Natanael Rodrigues, um <b>Desenvolvedor Full Stack</b> empenhado em criar soluções digitais impactantes. Atualmente, estou focado no desenvolvimento mobile com o projeto <b>ControlZ</b>, buscando sempre unir a inovação tecnológica para resolver problemas reais de forma eficiente.
 </p>
 
 <br>
@@ -37,9 +37,40 @@ Olá! Sou Natanael Rodrigues, um <b>Desenvolvedor Full Stack</b> apaixonado por 
 
 <br><br>
 
+<h3>📊 Nível de Proficiência</h3>
+<p align="center">
+<table>
+  <tr>
+    <td width="50" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/></td>
+    <td><img src="https://geps.dev/progress/85?dangerColor=777BB4&warningColor=777BB4&successColor=777BB4" alt="PHP 85%" /></td>
+  </tr>
+  <tr>
+    <td width="50" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/></td>
+    <td><img src="https://geps.dev/progress/80?dangerColor=FF2D20&warningColor=FF2D20&successColor=FF2D20" alt="Laravel 80%" /></td>
+  </tr>
+  <tr>
+    <td width="50" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></td>
+    <td><img src="https://geps.dev/progress/70?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB" alt="Python 70%" /></td>
+  </tr>
+  <tr>
+    <td width="50" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
+    <td><img src="https://geps.dev/progress/65?dangerColor=F7DF1E&warningColor=F7DF1E&successColor=F7DF1E" alt="JS 65%" /></td>
+  </tr>
+  <tr>
+    <td width="50" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></td>
+    <td><img src="https://geps.dev/progress/95?dangerColor=E34F26&warningColor=E34F26&successColor=E34F26" alt="HTML 95%" /></td>
+  </tr>
+  <tr>
+    <td width="50" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></td>
+    <td><img src="https://geps.dev/progress/90?dangerColor=1572B6&warningColor=1572B6&successColor=1572B6" alt="CSS 90%" /></td>
+  </tr>
+</table>
+</p>
+
+<br>
+
 <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanaelTRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelTRodrigues&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanaelTRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
 <br>
