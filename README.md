@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Natanael%20Rodrigues&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Dev%20Full%20Stack%20%7C%20Direito%20&%20Tech&descAlignY=55&descAlign=62"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Linguagens:+PHP+(Laravel)+%26+Python;Criando+soluções+mobile+(ControlZ);Unindo+Direito+e+Tecnologia;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Linguagens:+PHP+(Laravel)+%26+Python;Criando+soluções+mobile+(ControlZ);Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
   </a>
 
   <br>
