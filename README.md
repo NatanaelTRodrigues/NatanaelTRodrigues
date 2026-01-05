@@ -1,7 +1,16 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Natanael%20Rodrigues&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Dev%20Full%20Stack&descAlignY=55&descAlign=62"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Linguagens:+PHP+(Laravel)+%26+Python;Criando+soluções+mobile+(ControlZ);Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+
+<br><br>
+
+<h3>👋 Sobre Mim</h3>
+<p align="center">
+Olá! Sou Natanael Rodrigues, um <b>Desenvolvedor Full Stack</b> empenhado em criar soluções digitais impactantes. Atualmente, estou focado no desenvolvimento mobile com o projeto <b>ControlZ</b>, buscando sempre unir a inovação tecnológica para resolver problemas reais de forma eficiente.
+</p>
+
 <br>
+
 <h3>🛠️ Tecnologias & Ferramentas</h3>
 <div style="display: inline_block">
 <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -18,7 +27,7 @@
 <br><br>
 <div style="display: flex; justify-content: center; gap: 10px; align-items: flex-start;">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanaelTRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelTRodrigues&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaelTRodrigues&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 <br>
 <img src="https://raw.githubusercontent.com/NatanaelTRodrigues/NatanaelTRodrigues/output/github-contribution-grid-snake.svg" alt="Snake animation" />
