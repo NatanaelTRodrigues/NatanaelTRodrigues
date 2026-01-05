@@ -4,7 +4,7 @@
 <br><br>
 <h3>👋 Sobre Mim</h3>
 <p align="center">
-Olá! Sou Natanael Rodrigues, um <b>Desenvolvedor Full Stack</b> apaixonado por criar soluções digitais impactantes. Atualmente, estou focado no desenvolvimento mobile com o projeto <b>ControlZ</b>, buscando sempre unir a inovação tecnológica para resolver problemas reais de forma eficiente.
+Olá! Sou Natanael Rodrigues, um <b>Desenvolvedor Full Stack</b> empenhado em criar soluções digitais impactantes. Atualmente, estou focado no desenvolvimento mobile com o projeto <b>ControlZ</b>, buscando sempre unir a inovação tecnológica para resolver problemas reais de forma eficiente.
 </p>
 <br>
 <table border="0">
