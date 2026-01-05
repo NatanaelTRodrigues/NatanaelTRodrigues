@@ -1,0 +1,33 @@
+name: Daily Commit
+
+on:
+  schedule:
+    - cron: "0 10 * * *" # Roda todo dia às 10h da manhã (UTC)
+  workflow_dispatch: # Permite rodar manualmente se quiser
+
+jobs:
+  auto_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3      
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Modify file
+        run: |
+          d=`date +%Y-%m-%dT%H:%M:%SZ`
+          echo $d > LAST_UPDATED
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "nastastavaresrodrigues@gmail.com"
+          git config --local user.name "NatanaelTRodrigues"
+          git add -A
+          git commit -m "Auto Commit: Bot keeping it alive - $d"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
