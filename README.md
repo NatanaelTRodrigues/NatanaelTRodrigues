@@ -23,7 +23,7 @@ Olá! Sou Natanael Rodrigues, um <b>Desenvolvedor Full Stack</b> empenhado em cr
 </tr>
 <tr>
 <td width="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/></td>
-<td><img src="https://geps.dev/progress/90?dangerColor=1572B6&warningColor=1572B6&successColor=1572B6" alt="CSS 90%" /></td>
+<td><img src="https://geps.dev/progress/90?dangerColor=1572B6&warningColor=1572B6&successColor=1572B6" alt="CSS 94%" /></td>
 </tr>
 <tr>
 <td width="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/></td>
@@ -31,7 +31,7 @@ Olá! Sou Natanael Rodrigues, um <b>Desenvolvedor Full Stack</b> empenhado em cr
 </tr>
 <tr>
 <td width="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30"/></td>
-<td><img src="https://geps.dev/progress/80?dangerColor=000000&warningColor=000000&successColor=000000" alt="Next 80%" /></td>
+<td><img src="https://geps.dev/progress/80?dangerColor=000000&warningColor=000000&successColor=000000" alt="Next 85%" /></td>
 </tr>
 <tr>
 <td width="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/></td>
@@ -62,7 +62,7 @@ Olá! Sou Natanael Rodrigues, um <b>Desenvolvedor Full Stack</b> empenhado em cr
 </tr>
 <tr>
 <td width="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/></td>
-<td><img src="https://geps.dev/progress/50?dangerColor=007396&warningColor=007396&successColor=007396" alt="Java 50%" /></td>
+<td><img src="https://geps.dev/progress/50?dangerColor=007396&warningColor=007396&successColor=007396" alt="Java 60%" /></td>
 </tr>
 <tr>
 <td width="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/></td>
